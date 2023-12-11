@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://iamsudharsan.com/maze-solver-robot/">
+  <a href="#">
     <img src=".\img\card.png" alt="Social-header">
   </a>  
 </p>
@@ -10,9 +10,9 @@
     <a href=".\docs\report.pdf"><strong>Explore Maze Solver Robot docs »</strong></a>
     <br>
     <br>
-    <a href="https://github.com/Sudharsan10/maze-solver-robot/issues/new">Report bug</a>
+    <a href="https://github.com/blueraymusic/maze-solver-robot/issues/new">Report bug</a>
     ·
-    <a href="https://github.com/Sudharsan10/maze-solver-robot/issues/new">Request feature</a>    
+    <a href="https://github.com/blueraymusic/maze-solver-robot/issues/new">Request feature</a>    
 </p>
 
 Maze solver Robot is a program to drive a robot through a 16x16 maze using Depth First Search as it's path-planning algorithm. The program is integrated with Micro-mouse simulator a.k.a mms for visualizing the maze and the robot in real-time. 
@@ -41,7 +41,7 @@ This app depends on ```Qt5``` libraries. We can setup this up using apt-get pack
 ## Quick start                                   
 - Clone the repo in terminal using following command: 
     > ```
-    > git clone https://github.com/Sudharsan10/maze-solver-robot.git
+    > git clone https://github.com/blueraymusic/maze-solver-robot.git
     > ```
     
     or download github repo as ```.zip``` and extract it in the desired location.
@@ -77,7 +77,7 @@ To run the app, first finish the pre-requisites mentioned above, then
 If every requirement is fulfilled a window should open as follow,
 
 <p align="center;">
-    <a href="https://github.com/Sudharsan10/TilePuzzelSolver-App">
+    <a href="https://github.com/blueraymusic/TilePuzzelSolver-App">
     <img src=".\img\start_screen.png" width="100%" alt="start-screen">
     </a>
 </p>
@@ -181,7 +181,7 @@ structure and custom dfs and solver implementation algorithm.
 
 ## Bugs and feature requests
 Have a bug or a feature request? Search for existing and closed issues, if your problem or idea is not addressed yet, 
-[please open a new issue](https://github.com/Sudharsan10/maze-solver-robot/issues/new).
+[please open a new issue](https://github.com/blueraymusic/maze-solver-robot/issues/new).
 
 ## Creators
 **@Sudharsan** : <https://www.iamsudharsan.com>
